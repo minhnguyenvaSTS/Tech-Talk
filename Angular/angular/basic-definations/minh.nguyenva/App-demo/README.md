@@ -1,4 +1,4 @@
-# Demo app
+![image](https://github.com/minhnguyenvaSTS/Tech-Talk/assets/150311764/1e5450bd-741e-44f3-828c-593523bcf85a)# Demo app
  
  This is the webapp DEMO for Roadmap
 
@@ -31,3 +31,6 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+![image](https://github.com/minhnguyenvaSTS/Tech-Talk/assets/150311764/5addef13-e5f7-4e16-91a1-d4e4b8e7dd9b)
+![image](https://github.com/minhnguyenvaSTS/Tech-Talk/assets/150311764/d9680908-38e9-47b0-b854-2e8331e4e771)
